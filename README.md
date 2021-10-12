@@ -10,7 +10,7 @@ This repository includes a wide variety of synthetic, subsurface datasets with a
 
 #### Data Dimensionality
 
-To support practical teaching with easy visualization and interactivity the datasets are 1D and 2D.
+To support education with easy visualization and interactivity the datasets are 1D and 2D.
 
 * 1D cores from wells and 2D seismic maps. 
 
