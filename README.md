@@ -2,7 +2,7 @@
     <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png" width="220" height="200" />
 </p>
 
-# GeoDataSets
+# GeoDataSets: a Repository of Synthetic Subsurface Datasets
 
 This repository includes a wide variety of synthetic, subsurface datasets. This includes:
 
