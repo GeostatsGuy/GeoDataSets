@@ -3,4 +3,31 @@
 </p>
 
 # GeoDataSets
-Synthetic datasets for geoscience (geo)statistical modeling.  This will include a variety of dataset calculated throught the application of various modeling methods.  The purpose is to support statistical and geostatistical exercises and assignments in my undergrad Introduction to Geostatistics class.  I hope they may be of use to others also.
+
+This repository includes a wide variety of synthetic, subsurface datasets. This includes:
+
+#### Data Dimensionality
+
+To support practical teaching with easy visualization and interactivity the datasets are 1D and 2D.
+
+* 1D cores from wells and 2D seismic maps. 
+
+#### Number of Features
+
+For multivariate analysis some of the datasets include up to 6 features with a variety of structures.
+
+* linear and nonlinear, homoscedastic and heteroscedastic, and multivariate constraints 
+
+#### Data Issues
+
+The datasets attempt to include typical issues such as non-physical values, random and structured noise
+
+#### Use and Attribution
+
+You are welcome to use these datasets for any purpose. Please cite the repository as:
+
+Pyrcz, M.J., 2021, GeoDataSets Repository, GitHub Respository, https://github.com/GeostatsGuy/GeoDataSets/.
+
+I hope this is helpful,
+
+Michael
