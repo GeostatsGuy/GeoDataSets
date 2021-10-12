@@ -4,7 +4,9 @@
 
 # GeoDataSets: a Repository of Synthetic Subsurface Datasets
 
-This repository includes a wide variety of synthetic, subsurface datasets. This includes:
+Michael J. Pyrcz, Associate Professor, The University of Texas at Austin
+
+This repository includes a wide variety of synthetic, subsurface datasets with a variety of:
 
 #### Data Dimensionality
 
