@@ -2,9 +2,15 @@
     <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png" width="220" height="200" />
 </p>
 
-# GeoDataSets: a Repository of Synthetic Subsurface Datasets
+# GeoDataSets: Synthetic Subsurface Data Repository (1.0.0) 
 
-Michael J. Pyrcz, Associate Professor, The University of Texas at Austin
+## Prof. Michael J. Pyrcz, Associate Professor, The University of Texas at Austin
+
+A collection of synthetic subsurface datasets to support education, publications, and prototyping.
+
+Please cite as:
+
+Pyrcz, Michael J. (2021). GeoDataSets: Synthetic Subsurface Data Repository (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.5564874
 
 This repository includes a wide variety of synthetic, subsurface datasets with a variety of:
 
