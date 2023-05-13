@@ -8,10 +8,6 @@
 
 A collection of synthetic subsurface datasets to support education, publications, and prototyping.
 
-Please cite as:
-
-Pyrcz, Michael J. (2021). GeoDataSets: Synthetic Subsurface Data Repository (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.5564874
-
 This repository includes a wide variety of synthetic, subsurface datasets with a variety of:
 
 #### Data Dimensionality
@@ -32,9 +28,9 @@ The datasets attempt to include typical issues such as non-physical values, rand
 
 #### Use and Attribution
 
-You are welcome to use these datasets for any purpose. Please cite the repository as:
+You are welcome to use these datasets for any purpose. Please cite as:
 
-Pyrcz, M.J., 2021, GeoDataSets Repository, GitHub Respository, https://github.com/GeostatsGuy/GeoDataSets/.
+Pyrcz, Michael J. (2021). GeoDataSets: Synthetic Subsurface Data Repository (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.5564874
 
 I hope this is helpful,
 
