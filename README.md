@@ -4,7 +4,7 @@
 
 <h1 align="center">GeoDataSets: Synthetic Subsurface Data Repository (0.0.1)</h1>
 
-<h3 align="center">Well documented Python workflows to help you over the intellectual hurdles of data science!</h3>
+<h3 align="center">Open-data multivariate, spatiotemporal datasets to support education and research!</h3>
 
 *To support education and repeatable research we need open-data, data that is openly accessible, exploitable, editable and shared by anyone for any purpose, licensed under an open license. For multivariate, spatiotemporal problems these datasets are not widely available. Also, it is very helpful to have access to the 'inaccessible', exhaustive truth model (the population from which samples are extracted). So I have used my geostatistics skills to make a wide variety of synthetic truth populations an sample datasets to support my educational content and research and in the spirit of open-data, I share it here for anyone to use.* 
 
