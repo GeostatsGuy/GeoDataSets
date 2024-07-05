@@ -15,9 +15,9 @@
 
 ### Cite As:
 
-Pyrcz, Michael J. (2021). GeoDataSets: Synthetic Subsurface Data Repository (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.5564966
+Pyrcz, Michael J. (2021). GeoDataSets: Synthetic Subsurface Data Repository (0.0.1). Zenodo. https://doi.org/10.5281/zenodo.5564874
 
-[![DOI](https://zenodo.org/badge/106843586.svg)](https://zenodo.org/doi/10.5281/zenodo.5564966)
+[![DOI](https://zenodo.org/badge/117575737.svg)](https://zenodo.org/doi/10.5281/zenodo.5564873)
 
 ***
 
